@@ -1,0 +1,7 @@
+.container {
+    grid-template-columns: 1fr 1fr;
+}
+
+.section-3 {
+    grid-column: 1 / 3;
+}
